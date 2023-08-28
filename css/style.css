@@ -268,9 +268,9 @@ section {
     transition: 3s; */
 }
 
-/*.home-imgHover:hover {
+.home-imgHover:hover {
     background: var(--bg-color);
-    opacity: .8;*/
+    opacity: .8;
 }
 
 .about {
