@@ -89,7 +89,7 @@ section {
     align-items: center;
     padding: 0 9%;
     background: url('/images/sturkelhome.jpeg') no-repeat;
-    background-size: 100%, 100%;
+    background-size: cover;
     background-position: center;
 }
 
